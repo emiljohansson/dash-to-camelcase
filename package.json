@@ -1,6 +1,6 @@
 {
   "name": "dash-to-camelcase",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Converts a string with words separated by dashes into a camel cased string.",
   "main": "index.js",
   "scripts": {
