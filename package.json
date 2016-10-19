@@ -1,0 +1,29 @@
+{
+  "name": "dash-to-camelcase",
+  "version": "0.0.0",
+  "description": "Converts a string with words separated by dashes into a camel cased string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emiljohansson/dash-to-camelcase.git"
+  },
+  "keywords": [
+    "windows",
+    "os"
+  ],
+  "author": "Emil Johansson <emiljohansson.se@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emiljohansson/dash-to-camelcase/issues"
+  },
+  "homepage": "https://github.com/emiljohansson/dash-to-camelcase#readme",
+  "devDependencies": {
+    "ava": "^0.16.0"
+  },
+  "dependencies": {
+    "capitalize": "git+https://github.com/emiljohansson/capitalize.git"
+  }
+}
